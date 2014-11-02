@@ -1,8 +1,11 @@
 require 'sinatra'
-class HELLO
-  def self.test
-    "hello world"
-  end
+# class HELLO
+#   def self.test
+#     "hello world"
+#   end
+# end
+#
+# puts HELLO.test
+get '/' do
+  "xxxx"
 end
-
-puts HELLO.test
