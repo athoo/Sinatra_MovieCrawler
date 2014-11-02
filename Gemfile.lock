@@ -1,0 +1,12 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    movie_crawler (0.1.1)
+      nokogiri (>=1.6.2)
+
+  PLATFORMS
+    ruby
+
+  DEPENDENCIES
+    movie_crawler
+    sinatra
